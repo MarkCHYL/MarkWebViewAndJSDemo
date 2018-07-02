@@ -1,0 +1,1 @@
+<resources>    <string name="app_name">MarkWebViewAndJSDemo</string>    <string name="tipsstr">输入出入webview的值</string>    <string name="clickstr">点击传入</string></resources>
